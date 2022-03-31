@@ -1,0 +1,18 @@
+@media screen and (max-width: 991px) {
+    #cover {
+        height: 700px;
+    }
+    ul.navbar-nav li {
+        margin-left: 0px;
+    } 
+}
+@media screen and (max-width: 769px) {
+    #cover {
+        height: 600px;
+    }
+}
+@media screen and (max-width: 577px) {
+    #cover {
+        height: 500px;
+    }
+}

@@ -1,0 +1,26 @@
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>https://sescika.github.io/teahouse/index.html</loc>
+        <lastmod> 2022-03-31 </lastmod>
+        <changefreq>daily</changefreq>
+        <priority> 1 </priority>
+    </url>
+    <url>
+        <loc>https://sescika.github.io/teahouse/products.html</loc>
+        <lastmod> 2022-03-31 </lastmod>
+        <changefreq>weekly</changefreq>
+        <priority> 0.9</priority>
+    </url>
+    <url>
+        <loc>https://sescika.github.io/teahouse/about.html</loc>
+        <lastmod> 2022-03-31 </lastmod>
+        <changefreq>yearly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://sescika.github.io/teahouse/contact.html</loc>
+        <lastmod> 2022-03-31 </lastmod>
+        <changefreq>weekly</changefreq>
+        <priority> 0.85 </priority>
+    </url>
+</urlset>
